@@ -26,9 +26,13 @@ Created a new Postgres database named crowdfunding_db.
 Created tables in the correct order to handle foreign keys.
 Verified table creation and imported each CSV file into its corresponding SQL table.
 
+
 Files Included:
 category.csv: Contains category information.
 subcategory.csv: Contains subcategory information.
 campaign.csv: Contains campaign information.
 contacts.csv: Contains contact information.
 crowdfunding_db_schema.sql: SQL schema for creating tables in the crowdfunding_db database.
+QuickDBD-crowdfunding_db_schema: Visual representation of the SQL table schema showing tables, primary keys, foreign keys, and data types.
+
+![QuickDBD-crowdfunding_db_schema](https://github.com/Bettypani/Crowdfunding_ETL/assets/147662348/427fab7c-9f92-43f5-9a3b-487a5588c6a9)
